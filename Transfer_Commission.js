@@ -29,16 +29,9 @@
 
 
 
-    //if (transCom < 1 && transCom == ""){
-    //    console.log("NOPE")
-    //    return;
-    //}
+
     
 
     
 
-commission(5004);
-commission();
-commission("");
-commission("abc");
-commission(500000);
+
